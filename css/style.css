@@ -11,6 +11,16 @@ body{
     color: white;
 }
 
+.parceiros{
+    background-color: #95afa2;
+    color: white;
+}
+
+.servicos{
+    background-color: #8a9791;
+    color: white;
+}
+
 .margin{
     padding-top: 20px;
     padding-bottom: 50px;
